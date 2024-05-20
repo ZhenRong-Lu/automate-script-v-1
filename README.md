@@ -3,7 +3,7 @@
 這個軟體主要展示我對於演算法以及程式設計架構的理解和展示
 
 若有想要詳細了解的可以複製以下網址觀看操作
-https://www.youtube.com/watch?v=IO9vIw3Fwp4
+https://youtu.be/IO9vIw3Fwp4
 
 程式介紹
 這項專案利用演算法展現出每一個施工的車輛到達工作地點後，
