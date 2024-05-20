@@ -1,0 +1,4 @@
+car's name,distance to origin,next's distance,state,damage,location,updated time
+Number_1,500,TO O : 300,ON,10,C_1,2024-05-20
+Number_2,100,TO B : 100,ON,10,A_1,2024-05-20
+Number_3,0,TO A : 100,ON,10,O,2024-05-20
